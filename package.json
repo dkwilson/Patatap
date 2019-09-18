@@ -1,0 +1,24 @@
+{
+  "name": "patatap",
+  "version": "1.0.0",
+  "description": "Practice project using paper.js and howler.js",
+  "main": "index.js",
+  "dependencies": {
+    "howler": "^2.1.2",
+    "paper": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkwilson/Patatap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkwilson/Patatap/issues"
+  },
+  "homepage": "https://github.com/dkwilson/Patatap#readme"
+}
